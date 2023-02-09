@@ -1,0 +1,44 @@
+.numberList{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-bottom: 15px;
+    overflow:auto;
+    .Nlist{
+        overflow:auto; 
+        .h3{
+            h3{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+        }
+    }
+
+    .ul{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 10px;
+        overflow:auto; 
+
+        button{
+            height: 40px;
+            background-color:white;
+            color:black;
+            border: none;
+            margin-left: 10px;
+            font-size: 18px;
+            font-weight: 500;
+            padding-left: 10px;
+            border-radius: 10px;
+            cursor: pointer;
+            margin-top: 10px;
+
+        }
+       
+    }
+
+    }
+   

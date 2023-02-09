@@ -1,0 +1,21 @@
+.NumbersContainer{
+
+    .HeadLines{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        h2{
+            height: 40px;
+            background-color:white;
+            color:black;
+            border: none;
+            margin-left: 10px;
+            font-weight: 500;
+            padding: 8px 8px;
+            border-radius: 10px;
+            align-items: center;
+            justify-content: center;
+        }
+    }
+}
